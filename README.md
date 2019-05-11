@@ -31,8 +31,8 @@
   <li>
     nomer 6<br>
     link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal6">demo</a>
-    
-    <p><strong>Screenshot</strong></p>
+    <br>
+    <b>Screenshot</b>
     <ul>
       <li>
       <img src="https://raw.githubusercontent.com/adentdk/test_bootcamp10k3_arkademy/master/screenshot/soal61.png" width="200" height="150">  
