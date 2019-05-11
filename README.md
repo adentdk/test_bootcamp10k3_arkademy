@@ -10,26 +10,38 @@
 <ul>
   <li>
     nomer 1<br>
-    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal1.php">http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal1.php</a>
+    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal1.php">hasil</a>
   </li>
   <li>
     nomer 2<br>
-    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal2.php">http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal2.php</a>
+    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal2.php">hasil</a>
   </li>
   <li>
     nomer 3<br>
-    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal3.php">http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal3.php</a>
+    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal3.php">hasil</a>
   </li>
   <li>
     nomer 4<br>
-    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal4.php">http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal4.php</a>
+    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal4.php">hasil</a>
   </li>
   <li>
     nomer 5<br>
-    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal5.php">http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal5.php</a>
+    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal5.php">hasil</a>
   </li>
   <li>
     nomer 6<br>
-    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal6">http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal6</a>
+    link <a href="http://adentdkdemo.epizy.com/tes_bootcamp10k3/soal6">demo</a>
+    
+    <p><strong>Screenshot</strong></p>
+    <ul>
+      <li>
+      <img src="https://raw.githubusercontent.com/adentdk/test_bootcamp10k3_arkademy/master/screenshot/soal61.png" width="200" height="150">  
+      </li>
+      <li>
+      <img src="https://raw.githubusercontent.com/adentdk/test_bootcamp10k3_arkademy/master/screenshot/soal62.png" width="200" height="150">  
+      </li>
+      <li>
+      <img src="https://raw.githubusercontent.com/adentdk/test_bootcamp10k3_arkademy/master/screenshot/soal63.png" width="200" height="150">  
+      </li>
   </li>
 </ul>
